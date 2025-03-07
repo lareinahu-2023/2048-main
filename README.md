@@ -172,15 +172,6 @@ When you make a move:
 4. The display updates to show the new state
 5. The game checks if you've won or lost
 
-## Learning Exercises
-
-1. **Basic**: Try modifying the board size or winning condition
-2. **Intermediate**: Add a new feature like move undoing
-3. **Advanced**: Implement an AI solver for the game
-
-## Testing Your Understanding
-
-The project includes tests (`src/tests/`) that verify the game logic. Reading and understanding these tests can help you grasp how the game should behave in different scenarios.
 
 ## Project Structure Visualization
 
@@ -203,4 +194,4 @@ This implementation demonstrates key software engineering principles:
 - **Modularity**: Code is organized into logical units
 - **Testability**: Game logic can be verified independently
 
-Remember: The best way to learn is by doing! Try making small modifications to the code and see how they affect the game. Happy coding! 🎮
+
